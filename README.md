@@ -13,7 +13,7 @@
   </header>
 
   <section class="hero">
-    <img src="images/hero-image.jpg" alt="CGSAVER hero image">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eduopinions.com%2Funiversities%2Funiversities-in-bangladesh%2Fbrac-university%2F&psig=AOvVaw1xUj8MKv3Cq_rI1FB6sMXx&ust=1702983917114000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDp5c7rmIMDFQAAAAAdAAAAABAD" alt="CGSAVER hero image">
     <div class="hero-content">
       <h2>Stop overspending, start CGSAVING!</h2>
       <p>CGSAVER is the easiest way to track your expenses, manage your budget, and earn rewards for responsible saving.</p>
