@@ -13,7 +13,7 @@
   </header>
 
   <section class="hero">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eduopinions.com%2Funiversities%2Funiversities-in-bangladesh%2Fbrac-university%2F&psig=AOvVaw1xUj8MKv3Cq_rI1FB6sMXx&ust=1702983917114000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDp5c7rmIMDFQAAAAAdAAAAABAD" alt="CGSAVER hero image">
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eduopinions.com%2Funiversities%2Funiversities-in-bangladesh%2Fbrac-university%2F&psig=AOvVaw1xUj8MKv3Cq_rI1FB6sMXx&ust=1702983917114000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDp5c7rmIMDFQAAAAAdAAAAABAD](https://www.google.com/imgres?imgurl=https%3A%2F%2Fspng.pinpng.com%2Fpngs%2Fs%2F423-4230767_png-brac-university-logo-transparent-png.png&tbnid=V-xUedknSqKREM&vet=12ahUKEwjTwYri65iDAxULkWMGHYSmBSUQMygXegUIARCBAQ..i&imgrefurl=https%3A%2F%2Fwww.pinpng.com%2Fpicture%2FimoibiJ_png-brac-university-logo-transparent-png%2F&docid=4WfiYCj5nre0SM&w=320&h=320&q=brac%20university&hl=en&ved=2ahUKEwjTwYri65iDAxULkWMGHYSmBSUQMygXegUIARCBAQ)" alt="CGSAVER hero image">
     <div class="hero-content">
       <h2>Stop overspending, start CGSAVING!</h2>
       <p>CGSAVER is the easiest way to track your expenses, manage your budget, and earn rewards for responsible saving.</p>
